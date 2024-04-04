@@ -5,4 +5,19 @@ Items: {
 		DisplayName: Basic Sword
 		Tooltip: ""
 	}
-} 
+
+	BobChestplate: {
+		DisplayName: Bob's Robe
+		Tooltip: A red robe for the baddest skeleton.
+	}
+
+	BobHelmet: {
+		DisplayName: Bob's Umbrella
+		Tooltip: Yes an Umbrella.
+	}
+
+	BobLeggins: {
+		DisplayName: Bob Leggins
+		Tooltip: ""
+	}
+}
