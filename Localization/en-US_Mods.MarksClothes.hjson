@@ -8,16 +8,19 @@ Items: {
 
 	BobChestplate: {
 		DisplayName: Bob's Robe
-		Tooltip: A red robe for the baddest skeleton.
+		Tooltip:
+			'''
+			Vanity Item 
+			'A red robe for the baddest skeleton.'
+			'''
 	}
 
 	BobHelmet: {
 		DisplayName: Bob's Umbrella
-		Tooltip: Yes an Umbrella.
-	}
-
-	BobLeggins: {
-		DisplayName: Bob Leggins
-		Tooltip: ""
+		Tooltip:
+			'''
+			Vanity Item 
+			'Yes an Umbrella.'
+			'''
 	}
 }
